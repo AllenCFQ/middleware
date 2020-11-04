@@ -4,8 +4,8 @@ package com.allenou.cache.bloomfilter;
 import java.util.BitSet;
 
 /**
- *  https://xie.infoq.cn/article/db1fdba6462ed05c8adbd73ea
- *
+ *  布隆过滤器简单demo。
+ * https://xie.infoq.cn/article/db1fdba6462ed05c8adbd73ea
  */
 public class MyBloomFilter {
 
