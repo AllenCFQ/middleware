@@ -85,7 +85,6 @@ public class MyBloomFilter {
 }
 
 class HashFunction {
-
     private int size;
     private int seed;
 
